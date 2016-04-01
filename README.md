@@ -1,4 +1,4 @@
-# ticc-tac-toe
+# Tic tac toe
 JavaScript/ ECMAScript 6 implementation of Tic Tac Toe
 
 #About 
